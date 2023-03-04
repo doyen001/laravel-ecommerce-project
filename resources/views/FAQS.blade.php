@@ -203,3 +203,139 @@ maintain certain formula to maintain unique quality.
   
 </div>
 
+<!-- Card body -->
+<div id="heading7" class="collapse" role="tabpanel" aria-labelledby="heading7"
+  data-parent="#accordionEx">
+  <div class="card-body">
+  Yeah you can
+  </div>
+</div>
+
+</div>
+  <!--Q7-->
+  
+   <!--Q8-->
+ <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne8">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading8" 
+    aria-controls="heading8">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i>Do I need to pay any additional taxes ?
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
+  
+</div>
+
+<!-- Card body -->
+<div id="heading8" class="collapse" role="tabpanel" aria-labelledby="heading8"
+  data-parent="#accordionEx">
+  <div class="card-body">
+ No, but if it is beyond our boundary.
+  </div>
+</div>
+
+</div>
+  <!--Q8-->
+  
+    <!--Q9-->
+ <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne9">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading9" 
+    aria-controls="heading9">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i> Can I customize my order for multiple purchase ?
+        
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
+  
+</div>
+
+<!-- Card body -->
+<div id="heading9" class="collapse" role="tabpanel" aria-labelledby="heading9"
+  data-parent="#accordionEx">
+  <div class="card-body">
+ Yeah you can customise based on your requirements.
+  </div>
+</div>
+
+</div>
+  <!--Q9-->
+  
+   <!--Q10-->
+ <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne10">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading10" 
+    aria-controls="heading10">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i>What if I do not feel satisfied with my goods ?
+        
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
+  
+</div>
+
+<!-- Card body -->
+<div id="heading10" class="collapse" role="tabpanel" aria-labelledby="heading10"
+  data-parent="#accordionEx">
+  <div class="card-body">
+  You write to us at any time, we will try to make satisfied by
+exchanging or some other process.
+  </div>
+</div>
+
+</div>
+  <!--Q10-->
+      <!--Q10-->
+ <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne11">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading11" 
+    aria-controls="heading11">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i>What is the return policy ?
+        
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
+  
+</div>
+
+<!-- Card body -->
+<div id="heading11" class="collapse" role="tabpanel" aria-labelledby="heading11"
+  data-parent="#accordionEx">
+  <div class="card-body">
+Yeah you can return at any time, if not satisfied.
+  </div>
+</div>
+
+</div>
+  <!--Q11-->
+
+</div>
+<!-- Accordion wrapper -->
+
+
+</div>
+<!--Grid column-->
+</div>
+
+</section>
+@endsection
