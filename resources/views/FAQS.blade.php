@@ -158,4 +158,48 @@ maintain certain formula to maintain unique quality.
 </div>
   <!--Q5-->
   
+   <!--Q6-->
+ <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne6">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading6" 
+    aria-controls="heading6">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i> Do your products vary from the product photos of your website ?
+        
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
   
+</div>
+
+<!-- Card body -->
+<div id="heading6" class="collapse" role="tabpanel" aria-labelledby="heading6"
+  data-parent="#accordionEx">
+  <div class="card-body">
+ No, but sometimes might be due to lighting
+  </div>
+</div>
+
+</div>
+  <!--Q6-->
+    <!--Q7-->
+ <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne7">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading7" 
+    aria-controls="heading7">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i> Will I be able to trace my order ?
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
+  
+</div>
+
