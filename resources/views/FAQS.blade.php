@@ -100,4 +100,62 @@ selective ingredients completely.
           </div>
           <!-- Q3 -->
           
-          
+           <!--Q4-->
+           <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne4">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading4" 
+    aria-controls="heading4">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i> How do you monitor and control the quality of your products ?
+        
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
+  
+</div>
+
+<!-- Card body -->
+<div id="heading4" class="collapse" role="tabpanel" aria-labelledby="heading4"
+  data-parent="#accordionEx">
+  <div class="card-body">
+  We have certain basic rules and regulations towards our products, we
+maintain certain formula to maintain unique quality.
+  </div>
+</div>
+
+</div>
+<!-- Q4 -->
+<!--Q5-->
+ <div class="card p-3 my-5">
+
+<!-- Card header -->
+<div role="tab" id="headingOne5">
+  <a data-toggle="collapse" data-parent="#accordionEx" href="#heading5" 
+    aria-controls="heading5">
+    <p class="mb-0 dark-grey-text" style="float:left;">
+        <i class="far fa-question-circle"></i>If I have question, what's the fastest way to get an answer ?
+        
+    </p>
+    <p align="right">
+        <i class="fas fa-angle-down rotate-icon"></i>
+ </p>
+  </a>
+  
+</div>
+
+<!-- Card body -->
+<div id="heading5" class="collapse" role="tabpanel" aria-labelledby="heading5"
+  data-parent="#accordionEx">
+  <div class="card-body">
+    You can email us at any time.
+  </div>
+</div>
+
+</div>
+  <!--Q5-->
+  
+  
