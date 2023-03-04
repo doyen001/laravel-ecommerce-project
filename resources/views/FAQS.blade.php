@@ -71,4 +71,33 @@ selective ingredients completely.
           </div>
           <!-- Q2 -->
 
+            <!--Q3-->
+          <div class="card p-3 my-5">
+
+            <!-- Card header -->
+            <div role="tab" id="headingOne3">
+              <a data-toggle="collapse" data-parent="#accordionEx" href="#heading3" 
+                aria-controls="heading3">
+                <p class="mb-0 dark-grey-text" style="float:left;">
+                    <i class="far fa-question-circle"></i> Do your products fair trade policy ?
+                    
+                </p>
+                <p align="right">
+                    <i class="fas fa-angle-down rotate-icon"></i>
+             </p>
+              </a>
+              
+            </div>
+
+            <!-- Card body -->
+            <div id="heading3" class="collapse" role="tabpanel" aria-labelledby="heading3"
+              data-parent="#accordionEx">
+              <div class="card-body">
+                As it's a startup, we don't have. In future, it will be generated.
+              </div>
+            </div>
+
+          </div>
+          <!-- Q3 -->
+          
           
